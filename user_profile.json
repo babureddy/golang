@@ -1,0 +1,17 @@
+[
+	{
+		"id" : 1,
+		"category_id" : 1,
+		"created_at" : "2018-08-08 10:43:00",
+		"about" : "I am an experienced concrete mixer.",
+		"title" : "Concrete Specialist",
+		"experience" : 10,
+		"user_id" : 12,
+		"rating" : 4.00,
+		"vehicle_type" : 0,
+		"price" : 20.000,
+		"currency" : "USD",
+		"price_type" : "hourly",
+		"count" : 0
+	}
+]
